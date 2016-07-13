@@ -34,9 +34,9 @@ int prob1_function2(int limit) {
 
 int main(int argc, char* argv[]) {
 
-	// Usage: ./prob_1 <number>
+	// Usage: ./prob1 <number>
 	if (argc < 2) {
-		printf("Error. Usage: ./prob_1 <number>\n");
+		printf("Error. Usage: ./prob1 <number>\n");
 		return 0;
 	}
 

@@ -1,0 +1,23 @@
+/*
+	= PROJECT EULER: Problem X =
+	[Brief description]
+
+	Written by: Ian Wong
+	Date: DD/MM/YYYY
+*/
+
+#include <stdlib.h>
+#include <stdio.h>
+
+int main(int argc, char* argv[]) {
+
+	// Usage: ./probX <args>
+	if (argc < n) {
+		printf("Error. Usage: ./probX <args>\n");
+		return 0;
+	}
+
+	// Get the answer
+
+	return EXIT_SUCCESS;
+}
